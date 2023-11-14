@@ -13,6 +13,7 @@ Link to the repository:
 https://github.com/leesoohang/module1-refactor-Horiseon.git
 
 Link to the live application:
+https://leesoohang.github.io/module1-refactor-Horiseon
 
 ## Installation
 N/A
